@@ -7,4 +7,4 @@ The algorithms we are going to use and evaluate their performance are the follow
 # Logistic regression
 # Random Forest
 # Principal Component Analysis (PCA)
-# Deep Q-Learning
+# Deep Neural Network (DNN)
