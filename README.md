@@ -3,11 +3,7 @@ This repo will host the project "Optimal Insulin Dosage Value Prediction Task" o
 
 In this project, we will evaluate the performace of different machine (and deep) learning algorithms in order to prediction the optimal insulin dosage value on diabetes patients. 
 The algorithms we are going to use and evaluate their performance are the following:
-# Linear regression
-# Logistic regression
-# Random Forest
-# Principal Component Analysis (PCA)
-# Deep Neural Network (DNN)
+Linear regression, Logistic regression, Random Forest, Principal Component Analysis (PCA), Deep Neural Network (DNN)
 
 # Predicted vs Actual Insulin Dose
 ![patient_28_insulin_dose_plot](https://github.com/user-attachments/assets/54655522-b843-40b8-b28f-1ecf0f4b0614)
